@@ -12,7 +12,7 @@
   <a href="https://github.com/zzzcccxx">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=zzzcccxx&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzcccxx&layout=compact&langs_count=7&theme=dark"/>
-</div>  
+</div>
 
 
 <h2>🗒️ Open source project </h2>
