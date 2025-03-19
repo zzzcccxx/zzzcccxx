@@ -10,12 +10,12 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=zzzcccxx&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzcccxx&theme=transparent&layout=compact&hide_border=true&bg_color=00000000" /></a>  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-<h2>🗒️ Open source project </h2>
+<h2>🗒️ Projects I have contributed to </h2>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=nano-graphrag)](https://github.com/zzzcccxx/nano-graphrag)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=LightRAG)](https://github.com/zzzcccxx/LightRAG)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=KAG)](https://github.com/zzzcccxx/KAG)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=deep-searcher)](https://github.com/zzzcccxx/deep-searcher)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=nano-graphrag)](https://github.com/gusye1234/nano-graphrag)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=LightRAG)](https://github.com/HKUDS/LightRAG)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=KAG)](https://github.com/OpenSPG/KAG)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=deep-searcher)](https://github.com/zilliztech/deep-searcher)
 <br>
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
