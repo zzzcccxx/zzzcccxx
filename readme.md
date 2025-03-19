@@ -13,7 +13,9 @@
 <h2>🗒️ Open source project </h2>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=nano-graphrag)](https://github.com/zzzcccxx/nano-graphrag)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=goods_glm)](https://github.com/zzzcccxx/goods_glm)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=LightRAG)](https://github.com/zzzcccxx/LightRAG)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=KAG)](https://github.com/zzzcccxx/KAG)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=deep-searcher)](https://github.com/zzzcccxx/deep-searcher)
 <br>
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
