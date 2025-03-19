@@ -8,10 +8,9 @@
 <h2>📊 Stats and Activity</h2>
 <p align="center"><br><img src="https://count.getloli.com/get/@:zzzcccxx?theme=rule34" alt="zzzcccxx :: Visitor's Count" /></p>
 
-<div align="center">
-  <a href="https://github.com/zzzcccxx">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=zzzcccxx&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzcccxx&layout=compact&langs_count=7&theme=dark"/>
+<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=zzzcccxx&show_icons=true&bg_color=333&text_color=fff&title_color=D1D1D1&icon_color=D1D1D1&border_radius=8&hide=prs&include_all_commits=true"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzcccxx&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
