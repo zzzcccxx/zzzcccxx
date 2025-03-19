@@ -12,10 +12,10 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <h2>🗒️ Projects I have contributed to </h2>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gusye1234&repo=nano-graphrag&height=150)](https://github.com/gusye1234/nano-graphrag)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=HKUDS&repo=LightRAG&height=150)](https://github.com/HKUDS/LightRAG)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=OpenSPG&repo=KAG&height=150)](https://github.com/OpenSPG/KAG)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zilliztech&repo=deep-searcher&height=150)](https://github.com/zilliztech/deep-searcher)
+[![nano-graphrag](https://github-readme-stats.vercel.app/api/pin/?username=gusye1234&repo=nano-graphrag&show_owner=true)](https://github.com/gusye1234/nano-graphrag)
+[![LightRAG](https://github-readme-stats.vercel.app/api/pin/?username=HKUDS&repo=LightRAG&show_owner=true)](https://github.com/HKUDS/LightRAG)
+[![KAG](https://github-readme-stats.vercel.app/api/pin/?username=OpenSPG&repo=KAG&show_owner=true)](https://github.com/OpenSPG/KAG)
+[![deep-searcher](https://github-readme-stats.vercel.app/api/pin/?username=zilliztech&repo=deep-searcher&show_owner=true)](https://github.com/zilliztech/deep-searcher)
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
 
