@@ -8,16 +8,12 @@
 <h2>📊 Stats and Activity</h2>
 <p align="center"><br><img src="https://count.getloli.com/get/@:zzzcccxx?theme=rule34" alt="zzzcccxx :: Visitor's Count" /></p>
 
-| <a href="https://github.com/zzzcccxx" target="_blank"><div style="text-align: center;">Profile</div></a> | <a href="https://github.com/zzzcccxx/knowledge-hub/discussions" target="_blank"><div style="text-align: center;">Blog</div></a> |  |  |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-
-</p>
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=zzzcccxx&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzcccxx&theme=transparent&layout=compact&hide_border=true&bg_color=00000000" /></a>  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <h2>🗒️ Open source project </h2>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=nano-graphrag)](https://github.com/zzzcccxx/nano-graphrag)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=LightRAG)](https://github.com/zzzcccxx/LightRAG)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=KAG)](https://github.com/zzzcccxx/KAG)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zzzcccxx&repo=goods_glm)](https://github.com/zzzcccxx/goods_glm)
 <br>
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
