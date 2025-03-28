@@ -16,6 +16,7 @@
 [![LightRAG](https://github-readme-stats.vercel.app/api/pin/?username=HKUDS&repo=LightRAG&show_owner=true)](https://github.com/HKUDS/LightRAG)
 [![KAG](https://github-readme-stats.vercel.app/api/pin/?username=OpenSPG&repo=KAG&show_owner=true)](https://github.com/OpenSPG/KAG)
 [![deep-searcher](https://github-readme-stats.vercel.app/api/pin/?username=zilliztech&repo=deep-searcher&show_owner=true)](https://github.com/zilliztech/deep-searcher)
+[![HippoRAG2](https://github-readme-stats.vercel.app/api/pin/?username=OSU-NLP-Group&repo=HippoRAG&show_owner=true)](https://github.com/OSU-NLP-Group/HippoRAG)
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
 
