@@ -17,6 +17,7 @@
 [![KAG](https://github-readme-stats.vercel.app/api/pin/?username=OpenSPG&repo=KAG&show_owner=true)](https://github.com/OpenSPG/KAG)
 [![deep-searcher](https://github-readme-stats.vercel.app/api/pin/?username=zilliztech&repo=deep-searcher&show_owner=true)](https://github.com/zilliztech/deep-searcher)
 [![HippoRAG2](https://github-readme-stats.vercel.app/api/pin/?username=OSU-NLP-Group&repo=HippoRAG&show_owner=true)](https://github.com/OSU-NLP-Group/HippoRAG)
+[![youtu-graphrag](https://github-readme-stats.vercel.app/api/pin/?username=TencentCloudADP&repo=youtu-graphrag&show_owner=true)](https://github.com/TencentCloudADP/youtu-graphrag)
 
 <h2>🧰 Tools and technologies that I have worked with and am interested in</h2>
 
