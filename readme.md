@@ -8,7 +8,7 @@
 <h2>📊 Stats and Activity</h2>
 <p align="center"><br><img src="https://count.getloli.com/get/@:zzzcccxx?theme=rule34" alt="zzzcccxx :: Visitor's Count" /></p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=zzzcccxx&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzcccxx&theme=transparent&layout=compact&hide_border=true&bg_color=00000000" /></a>  |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-stats-extended.vercel.app/api?username=zzzcccxx&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&bg_color=00000000" alt="Valdanito's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zzzcccxx&theme=transparent&layout=compact&hide_border=true&bg_color=00000000" /></a>  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <h2>🗒️ Projects I have contributed to</h2>
 
@@ -16,34 +16,34 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/gusye1234/nano-graphrag" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusye1234&repo=nano-graphrag&show_owner=true" alt="nano-graphrag"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=gusye1234&repo=nano-graphrag&show_owner=true" alt="nano-graphrag"/>
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/HKUDS/LightRAG" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HKUDS&repo=LightRAG&show_owner=true" alt="LightRAG"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=HKUDS&repo=LightRAG&show_owner=true" alt="LightRAG"/>
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/OpenSPG/KAG" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenSPG&repo=KAG&show_owner=true" alt="KAG"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=OpenSPG&repo=KAG&show_owner=true" alt="KAG"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/zilliztech/deep-searcher" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zilliztech&repo=deep-searcher&show_owner=true" alt="deep-searcher"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=zilliztech&repo=deep-searcher&show_owner=true" alt="deep-searcher"/>
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/OSU-NLP-Group/HippoRAG" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OSU-NLP-Group&repo=HippoRAG&show_owner=true" alt="HippoRAG"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=OSU-NLP-Group&repo=HippoRAG&show_owner=true" alt="HippoRAG"/>
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/TencentCloudADP/youtu-graphrag" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TencentCloudADP&repo=youtu-graphrag&show_owner=true" alt="youtu-graphrag"/>
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=TencentCloudADP&repo=youtu-graphrag&show_owner=true" alt="youtu-graphrag"/>
       </a>
     </td>
   </tr>
